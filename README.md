@@ -1,12 +1,10 @@
-<h1 align="center">Hi , I'm Krzysztof Moch</h1>
+<h1 align="center">Hi, I'm Krzysztof</h1>
 <h3 align="center">A software developer from poland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  discord: Krzysztof#7561
-</p>
-<p align="left">
-  mail: krzysmoch.priv@gmail.com
+   mail: krzysmoch.priv@gmail.com <br>
+   discord: Krzysztof#7561
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
