@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   mail: krzysmoch.priv@gmail.com <br>
+   mail: krzysmoch@gmail.com <br>
    discord: Krzysztof#7561
 </p>
 
