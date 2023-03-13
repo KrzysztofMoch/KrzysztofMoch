@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Krzysztof</h1>
-<h3 align="center">A React Native Developer from Poland. I am currently working at mymusic</h3>
-<h5 align="center">(I've been working on devAzure since June so I apologize for the low activity on github)</h5>
+<h3 align="center">A React Native Developer from Poland. I am currently doing some open source and side projects</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
